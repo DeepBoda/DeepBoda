@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Deep Boda, Senior DevOps and Full-Stack Engineer">
+<style>
+  .packet { animation: run 4.8s cubic-bezier(.45,0,.25,1) infinite; }
+  .halo { animation: run 4.8s cubic-bezier(.45,0,.25,1) infinite, pulse 1.2s ease-in-out infinite alternate; transform-box: fill-box; }
+  @keyframes run { 0% { transform: translateX(0); opacity: 0; } 6% { opacity: 1; } 88% { opacity: 1; } 100% { transform: translateX(510px); opacity: 0; } }
+  @keyframes pulse { from { r: 10; } to { r: 16; } }
+  @media (prefers-reduced-motion: reduce) { .packet, .halo { animation: none; } }
+</style>
+<defs>
+  <radialGradient id="glow" cx="78%" cy="20%" r="60%"><stop offset="0" stop-color="#c8365a22"/><stop offset="1" stop-color="#fcfcfa" stop-opacity="0"/></radialGradient>
+  <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#fcfcfa" stop-opacity="0"/><stop offset="1" stop-color="#fcfcfa"/></linearGradient>
+</defs>
+<rect width="1280" height="300" rx="18" fill="#fcfcfa"/>
+<g stroke="#ececef" stroke-width="1"><path d="M0 0V300" /><path d="M40 0V300" /><path d="M80 0V300" /><path d="M120 0V300" /><path d="M160 0V300" /><path d="M200 0V300" /><path d="M240 0V300" /><path d="M280 0V300" /><path d="M320 0V300" /><path d="M360 0V300" /><path d="M400 0V300" /><path d="M440 0V300" /><path d="M480 0V300" /><path d="M520 0V300" /><path d="M560 0V300" /><path d="M600 0V300" /><path d="M640 0V300" /><path d="M680 0V300" /><path d="M720 0V300" /><path d="M760 0V300" /><path d="M800 0V300" /><path d="M840 0V300" /><path d="M880 0V300" /><path d="M920 0V300" /><path d="M960 0V300" /><path d="M1000 0V300" /><path d="M1040 0V300" /><path d="M1080 0V300" /><path d="M1120 0V300" /><path d="M1160 0V300" /><path d="M1200 0V300" /><path d="M1240 0V300" /><path d="M1280 0V300" /><path d="M0 0H1280" /><path d="M0 40H1280" /><path d="M0 80H1280" /><path d="M0 120H1280" /><path d="M0 160H1280" /><path d="M0 200H1280" /><path d="M0 240H1280" /><path d="M0 280H1280" /></g>
+<rect width="1280" height="300" rx="18" fill="url(#glow)"/>
+<rect y="210" width="1280" height="90" fill="url(#fade)"/>
+
+<text x="64" y="84" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#6e6e73">DEVOPS · FULL-STACK · CLOUD · PLATFORM</text>
+<text x="62" y="158" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="-2" fill="#1d1d1f">Deep Boda</text>
+<text x="64" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="500" fill="#1d1d1f">Senior DevOps and Full-Stack Engineer</text>
+<text x="64" y="236" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="15" fill="#6e6e73">Kubernetes on AWS · Terraform · CI/CD · Node.js</text>
+
+<text x="700" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.5" fill="#6e6e73">ONE REQUEST, TOP TO BOTTOM</text>
+<path d="M700 196H1210" stroke="#d2d2d7" stroke-width="2"/>
+<circle cx="700" cy="196" r="9" fill="#ffffff" stroke="#c8365a" stroke-width="2"/><text x="700" y="232" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#6e6e73">Browser</text><circle cx="802" cy="196" r="9" fill="#ffffff" stroke="#d2d2d7" stroke-width="2"/><text x="802" y="232" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#6e6e73">CDN</text><circle cx="904" cy="196" r="9" fill="#ffffff" stroke="#d2d2d7" stroke-width="2"/><text x="904" y="232" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#6e6e73">ALB</text><circle cx="1006" cy="196" r="9" fill="#ffffff" stroke="#d2d2d7" stroke-width="2"/><text x="1006" y="232" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#6e6e73">Cluster</text><circle cx="1108" cy="196" r="9" fill="#ffffff" stroke="#d2d2d7" stroke-width="2"/><text x="1108" y="232" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#6e6e73">App</text><circle cx="1210" cy="196" r="9" fill="#ffffff" stroke="#c8365a" stroke-width="2"/><text x="1210" y="232" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#6e6e73">Data</text>
+<circle class="halo" cx="700" cy="196" r="12" fill="#c8365a" opacity=".18"/>
+<circle class="packet" cx="700" cy="196" r="6" fill="#c8365a"/>
+</svg>
